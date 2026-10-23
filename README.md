@@ -18,7 +18,7 @@
 - 🎓 **B.Sc. in Statistics & Computer Science Graduate (9.32 / 10 CGPA)** from Rayalaseema University.
 - 💼 Hands-on project experience spanning **SQL Server, Power BI, Advanced Excel, and Python**.
 - 📊 Tracked **INR 1.71B** in hotel revenue and uncovered **INR 299M** in cancellation-driven recovery opportunities across 100 properties.
-- ⚡ **Immediate Joiner (≤ 15 Days)** based in **Bengaluru, India**.
+- ⚡ **Immediate Joiner (≤ 15 Days)** based in **based in Bengaluru / Hyderabad, India**.
 
 ---
 
@@ -64,5 +64,5 @@
 <div align="center">
   <b>🌐 Live Portfolio:</b> <a href="https://tanmayeemankar.github.io/">tanmayeemankar.github.io</a> &nbsp;|&nbsp; 
   <b>📩 Email:</b> <a href="mailto:tanmayee108@gmail.com">tanmayee108@gmail.com</a> &nbsp;|&nbsp; 
-  <b>📍 Location:</b> Bengaluru, India
+  <b>📍 Location:</b> Bengaluru / Hyderabad, India
 </div>
