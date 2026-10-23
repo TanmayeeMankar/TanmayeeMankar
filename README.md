@@ -53,14 +53,6 @@
 
 ---
 
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanmayeeMankar&show_icons=true&theme=tokyonight&hide_border=true" alt="Tanmayee's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayeeMankar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
   <b>🌐 Live Portfolio:</b> <a href="https://tanmayeemankar.github.io/">tanmayeemankar.github.io</a> &nbsp;|&nbsp; 
   <b>📩 Email:</b> <a href="mailto:tanmayee108@gmail.com">tanmayee108@gmail.com</a> &nbsp;|&nbsp; 
