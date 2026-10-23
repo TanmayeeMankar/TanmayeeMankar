@@ -18,7 +18,7 @@
 - 🎓 **B.Sc. in Statistics & Computer Science Graduate (9.32 / 10 CGPA)** from Rayalaseema University.
 - 💼 Hands-on project experience spanning **SQL Server, Power BI, Advanced Excel, and Python**.
 - 📊 Tracked **INR 1.71B** in hotel revenue and uncovered **INR 299M** in cancellation-driven recovery opportunities across 100 properties.
-- ⚡ **Immediate Joiner (≤ 15 Days)** based in **based in Bengaluru / Hyderabad, India**.
+- ⚡ **Immediate Joiner (≤ 15 Days)** based in **Bengaluru / Hyderabad, India**.
 
 ---
 
